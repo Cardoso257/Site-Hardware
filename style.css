@@ -1,0 +1,59 @@
+table{
+    height: 100vb;
+    width: 100%;
+    margin: 0%;
+    background-color: #c93e3e ;
+}
+body{
+    margin: 0px;
+}
+#linha1{
+    width: 60px;
+    height: 60px;
+}
+#search{
+    width: 90%;
+    margin-left: 10px;
+}
+#GC{
+    width: 70%;
+    margin-left: 50px;
+}
+img{
+    width: 35%;
+    margin-left: 120px;
+}
+
+td{
+    width: 10%;
+    height: 10vb;
+}
+.alinhar{
+    margin-left: 37%;
+}
+button{
+    height: 45px;
+    width: 200px;
+}
+.borda{
+    border: 0px solid black;
+    border-radius: 0%;
+}
+a{
+    text-decoration: none;
+    color: #fafafa ;
+}
+.White {
+    background-color: white;
+}
+.Menu {
+    background-color: rgba(172, 68, 68, 0.61);
+    font-size: 40px;
+    text-align: center;
+}
+.LDBrown {
+    background-color: rgba(172, 68, 68, 0.61);
+}
+.DBrown {
+    background-color: rgb(121, 32, 32);
+}
